@@ -9,4 +9,7 @@ Create Database tms
 Import database tms.sql (available inside zip package)
 Open Your browser put inside browser “http://localhost/tms”
 
+Admin Configuration
 
+Name:admin
+Password: Test@123
